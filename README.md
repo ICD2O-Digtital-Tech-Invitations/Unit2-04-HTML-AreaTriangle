@@ -1,8 +1,9 @@
-# ICS2O Unit #X-YY
+# Unit2-04-HTML-AreaTriangle
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/actions)
+
+[![Deploy Pages](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/workflows/Deploy%20Pages/badge.svg)](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/actions)
 
 This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
 
