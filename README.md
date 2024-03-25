@@ -1,4 +1,5 @@
-# Unit2-04-HTML-AreaTriangle
+# Unit2-04-PHP-AreaTriangle
+
 
 
 [![Mr Coxall's Super Linter](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Digtital-Tech-Invitations/Unit2-04-HTML-AreaTriangle/actions)
